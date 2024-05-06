@@ -1,4 +1,4 @@
-Id_Clientes,Genero,Edad,Annual_Income_Kg,Spending_Score
+Id_Clientes,Genero,Edad,Ingreso_anual,Puntaje
 1,Male,19,15,39
 2,Male,21,15,81
 3,Female,20,16,6
